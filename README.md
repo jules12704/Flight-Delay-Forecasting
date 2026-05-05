@@ -1,0 +1,1 @@
+Time series forecasting project using 3M US flight records (2019–2023). Predicts monthly average arrival delays with ARIMA(1,1,1). Includes data cleaning, EDA, stationarity testing, ACF/PACF analysis, and model comparison vs Facebook Prophet. Final model achieves MAE of 3.89 minutes.
